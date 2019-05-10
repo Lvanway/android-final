@@ -20,7 +20,7 @@
         {
             "id": 2,
             "definition": "A machine that runs on fuel",
-            "synonyms": [ "automobile", "vehicle" ]
+            "synonyms": [ "automobile", "vehicle" ],
             "pronunciation": "kahr",
             "image": "car.png"
         }
