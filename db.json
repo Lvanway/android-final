@@ -13,13 +13,11 @@
         {
             "id": 1,
             "definition": "A fruit that grows on trees",
-            "synonyms": [ "fruit" ],
-            "pronunciation": "<b>ap</b>-<i>uh</i>l"
+            "pronunciation": "ap-uhl"
         },
         {
             "id": 2,
             "definition": "A machine that runs on fuel",
-            "synonyms": [ "automobile", "vehicle" ],
             "pronunciation": "kahr"
         }
     ]
