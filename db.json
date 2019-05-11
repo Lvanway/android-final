@@ -2,11 +2,11 @@
     "words": [
         {
             "id": 1,
-            "word": "apple"
+            "title": "apple"
         },
         {
             "id": 2,
-            "word": "car"
+            "title": "car"
         }
     ],
     "data": [
@@ -14,15 +14,13 @@
             "id": 1,
             "definition": "A fruit that grows on trees",
             "synonyms": [ "fruit" ],
-            "pronunciation": "<b>ap</b>-<i>uh</i>l",
-            "image": "apple.jpg"
+            "pronunciation": "<b>ap</b>-<i>uh</i>l"
         },
         {
             "id": 2,
             "definition": "A machine that runs on fuel",
             "synonyms": [ "automobile", "vehicle" ],
-            "pronunciation": "kahr",
-            "image": "car.png"
+            "pronunciation": "kahr"
         }
     ]
 }
